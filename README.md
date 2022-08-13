@@ -1,5 +1,6 @@
 # WhatTheTech
 In this repository you will find Code referenced in HowTheTech articles.
+You will also find the full versioning of each published article!
 
 As always, feel free to provide feedback and ask questions!
 
